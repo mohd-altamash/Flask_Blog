@@ -1,0 +1,7 @@
+Flask
+Pillow
+Flask-Login
+flask-wtf
+flask-sqlalchemy
+flask-bcrypt
+email-validator
